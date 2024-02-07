@@ -19,11 +19,6 @@ i= 6 sum_fac= 720  sum_sigma= 746
 i= 8 sum_fac= 40320  sum_sigma= 41066
 i= 10 sum_fac= 3628800  sum_sigma= 3669866
 
-
-```
-
 2!+4!+6!.. 2! den 2*5!  toplami = 3669866 
 
-
-...Program finished with exit code 0
-Press ENTER to exit console.
+```
